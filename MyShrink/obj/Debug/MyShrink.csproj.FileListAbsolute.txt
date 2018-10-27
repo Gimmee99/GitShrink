@@ -1,0 +1,9 @@
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\bin\Debug\MyShrink.exe.config
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\bin\Debug\MyShrink.exe
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\bin\Debug\MyShrink.pdb
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.csprojResolveAssemblyReference.cache
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.frmShrink.resources
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.Properties.Resources.resources
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.csproj.GenerateResource.Cache
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.exe
+c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.pdb
