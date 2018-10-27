@@ -7,3 +7,12 @@ c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\De
 c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.csproj.GenerateResource.Cache
 c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.exe
 c:\users\wsbdell3\documents\visual studio 2015\Projects\MyShrink\MyShrink\obj\Debug\MyShrink.pdb
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\bin\Debug\MyShrink.exe.config
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\obj\Debug\MyShrink.exe
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\obj\Debug\MyShrink.pdb
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\bin\Debug\MyShrink.exe
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\bin\Debug\MyShrink.pdb
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\obj\Debug\MyShrink.csprojResolveAssemblyReference.cache
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\obj\Debug\MyShrink.frmShrink.resources
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\obj\Debug\MyShrink.Properties.Resources.resources
+C:\Users\wsbdell3\Documents\GitHub\GitShrink\MyShrink\obj\Debug\MyShrink.csproj.GenerateResource.Cache

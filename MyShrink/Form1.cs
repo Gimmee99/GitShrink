@@ -118,7 +118,18 @@ namespace MyShrink
 
         private void ConvertOneFile(string oneoriginalfile, int ihowmuch, InterpolationMode modetouse)
         {
-            Image original = Image.FromFile(oneoriginalfile);
+            Image original;
+            try
+            {
+                original = Image.FromFile(oneoriginalfile);
+            }
+            catch (Exception e)
+            {
+                txtprogress.AppendText(oneoriginalfile + " could not be converted to an image.\n");
+                Application.DoEvents();
+                return;
+            }
+            
 
             // The resize function takes a new absoloute width/height so we have to calculate what X% of that means
             // Take the original width and height, then multiply the UI percentage to get the new abosolutes

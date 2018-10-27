@@ -60,7 +60,7 @@
             // 
             this.listfiles.AllowDrop = true;
             this.listfiles.FormattingEnabled = true;
-            this.listfiles.Location = new System.Drawing.Point(15, 79);
+            this.listfiles.Location = new System.Drawing.Point(15, 81);
             this.listfiles.Name = "listfiles";
             this.listfiles.Size = new System.Drawing.Size(556, 134);
             this.listfiles.TabIndex = 1;
@@ -136,12 +136,12 @@
             // lblamount
             // 
             this.lblamount.AutoSize = true;
-            this.lblamount.Location = new System.Drawing.Point(336, 20);
+            this.lblamount.Location = new System.Drawing.Point(345, 20);
             this.lblamount.Name = "lblamount";
             this.lblamount.Padding = new System.Windows.Forms.Padding(0, 6, 0, 0);
-            this.lblamount.Size = new System.Drawing.Size(176, 19);
+            this.lblamount.Size = new System.Drawing.Size(167, 19);
             this.lblamount.TabIndex = 2;
-            this.lblamount.Text = "Shrink to this percentage of original:";
+            this.lblamount.Text = "Decrease size by this percentage:";
             // 
             // txtamount
             // 
